@@ -1,3 +1,5 @@
 title: My Awesome Project
 description: A place for my thoughts and work.
 theme: jekyll-theme-architect 
+baseurl: "/jekylltest"
+url: "https://vitruvvitruv.github.io" 
