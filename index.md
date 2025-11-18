@@ -1,5 +1,5 @@
 ---
-layout: home # Or 'page', depending on your theme's layouts
+layout: default # <--- Change 'home' to 'default'
 title: Welcome to My Site!
 ---
 
